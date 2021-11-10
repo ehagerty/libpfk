@@ -1,6 +1,8 @@
 # libpfk
 All credit for initial commit to https://www.philpem.me.uk/code/liblpfk.  I just wanted to host it here on github in addition to his mercurial repo
 
+*** original page from philpem.me.uk ***
+
 liblpfk -- IBM LPFK driver library
 Back in 2008, I picked up a few IBM 6094-020 Lighted Program Function Keyboards from someone on the classiccmp mailing list. These are an array of keys and lights which were used as a user interface for some kind of CAD product on the RS/6000 AIX platform.
 
